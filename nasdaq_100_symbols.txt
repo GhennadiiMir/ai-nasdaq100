@@ -1,78 +1,78 @@
-ADBE
-ADI
-ADP
-ADSK
-AEP
-ALGN
-AMAT
-AMD
-ANSS
-ASML
-ATVI
-AZN
-BKNG
-BKR
-CDNS
-CEG
-CHTR
-CMCSA
-CRWD
-CSCO
-CSGP
-CSX
-CTAS
-CTSH
-DLTR
-DXCM
-EBAY
-EXC
-FANG
-FAST
-FISV
-FTNT
-GFS
-GILD
-GOOGL
-HON
-IDXX
-INTC
-INTU
-ISRG
-KDP
-LRCX
-LULU
-MAR
-MCHP
-MDLZ
-MELI
-MNST
-MRNA
-MRVL
-MSFT
-MU
-NFLX
-NVDA
-NXPI
-ODFL
-ORLY
-PANW
-PAYX
-PCAR
-PDD
-PEP
-PYPL
-QCOM
-REGN
-ROST
-SGEN
-SIRI
-SNPS
-TEAM
-TMUS
-TSLA
-TXN
-VRSK
-VRTX
-WDAY
-XEL
-ZM
+ADBE	Adobe Inc.
+ADI	Analog Devices, Inc.
+ADP	Automatic Data Processing, Inc.
+ADSK	Autodesk, Inc.
+AEP	American Electric Power Company, Inc.
+ALGN	Align Technology, Inc.
+AMAT	Applied Materials, Inc.
+AMD	Advanced Micro Devices, Inc.
+ANSS	ANSYS, Inc.
+ASML	ASML Holding N.V.
+ATVI	Activision Blizzard, Inc.
+AZN	Astrazeneca PLC
+BKNG	Booking Holdings Inc.
+BKR	Baker Hughes Company
+CDNS	Cadence Design Systems, Inc.
+CEG	Consolidated Edison, Inc.
+CHTR	Charter Communications, Inc.
+CRWD	Crimson Hexagon Inc.
+CMCSA,4737,Comcast Corporation Class A
+CSCO,226,Cisco Systems, Inc.
+CSGP,44064,CoStar Group Inc.
+CSX,3112447,CSX Corp.
+CTAS,225,Cintas Corp.
+CTSH,4625,Cognizant Technology Solutions Corporation
+DLTR,237,Dollar Tree, Inc.
+DXCM,21246,DexCom, Inc.
+EBAY,238,eBay Inc.
+EXC	Exelon Corporation
+FANG	Diamondback Energy, Inc.
+FAST	Fastenal Company
+FISV	Fiserv, Inc.
+FTNT	Fortinet, Inc.
+GFS	Gordon Food Service, Inc.
+GILD	Gilead Sciences, Inc.
+GOOGL	Alphabet Inc.
+HON	Honeywell International Inc.
+IDXX	IDEXX Laboratories, Inc.
+INTC	Intel Corporation
+INTU	Intuit Inc.
+ISRG	Intuitive Surgical, Inc.
+KDP	Keurig Dr Pepper Inc.
+LRCX	Lam Research Corporation
+LULU	lululemon athletica inc.
+MAR	Marriott International, Inc.
+MCHP	Microchip Technology Inc.
+MDLZ	Mondelez International Inc.
+MELI	MercadoLibre Inc.
+MNST	Monster Beverage Corporation
+MRNA,11505424,Moderna Inc.
+MRVL,3468,Marvell Technology Group Ltd.
+MSFT,261,Microsoft Corporation
+MU,42315,Micron Technology Inc.
+NFLX,8292,Netflix Inc.
+NVDA,1249,NVIDIA Corporation
+NXPI,48011,NXP Semiconductors N.V.
+ODFL,44265,Old Dominion Freight Line Inc.
+ORLY,7228,O'Reilly Automotive Inc.
+PANW,25592892,Palo Alto Networks Inc.
+PAYX,274,Paychex Inc.
+PCAR,269,Paccar Inc.
+PDD,10307078,Pinduoduo Inc. - ADR 
+PEP,8558675,Pepsico Inc.
+PYPL,2202847,PayPal Holdings Inc.
+QCOM,278,Qualcomm Inc.
+REGN,26594,Regeneron Pharmaceuticals Inc.
+ROST,3822,Ross Stores Inc.
+SGEN,44356,CfdOnStock,Seagen Inc.
+SIRI,4896,CfdOnStock,Sirius XM Holdings Inc.
+SNPS,290,Synopsy Inc.
+TEAM,3046512,Atlassian Cotporation Plc
+TMUS,2784994,T-Mobile US Inc.
+TSLA,47556,Tesla Inc.
+TXN,117451,Texas Instruments Inc.
+VRSK,40085,Verisk Analytics Inc.
+VRTX,2053,Vertex Pharmaceuticals Inc.
+WDAY,7885904,Workday Inc.
+XEL,8640557,Xcel Energy
+ZM,13558232,Zoom Visoe Communications Inc.
